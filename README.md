@@ -16,3 +16,7 @@ TODO:
 
 Maybe:
 - Properties
+
+### References
+- [Intermediate Python](http://book.pythontips.com/en/latest/)
+- [Fluent Python](https://www.amazon.co.uk/Fluent-Python-Luciano-Ramalho/dp/1491946008)
